@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on ESPHome Documentation
 - 🌱 I’m currently learning Python, C++
 - 👯 I’m looking to collaborate on Home Automation projects
-- 🤔 I’m looking for help with finding work
 - 📫 How to reach me: via Github mail or on various Discords
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Fixing things is fun!
