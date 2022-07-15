@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ESPHome Documentation
+- 🔭 I’m currently working on ESPHome DIY Devices
 - 🌱 I’m currently learning Python, C++
 - 👯 I’m looking to collaborate on Home Automation projects
 - 📫 How to reach me: via Github mail or on various Discords
